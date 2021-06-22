@@ -1,0 +1,9 @@
+u can design your system using cluster
+which run different process on different cores
+they executed parallel.
+
+U can monitor all your process.
+
+cluster module-->
+
+cluster/pm2

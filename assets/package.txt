@@ -1,0 +1,3 @@
+most important part of package is script:
+
+start: node -r esm server.js

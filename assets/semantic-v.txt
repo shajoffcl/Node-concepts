@@ -1,0 +1,13 @@
+Semantic versioning:--->
+
+Example: ^1.0.01
+meaning: major.minor.patch
+
+patch update:--> some bug fixed.
+minor update:--> add new functionality + depricated old functionality.
+major update:--> breakage, means not compatible.
+
+^ --> u can download minor or patch updates.
+~ --> u can only download patch update.
+
+note:--> if there is no sign then only matched version allowed.
